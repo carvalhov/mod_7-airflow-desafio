@@ -6,6 +6,9 @@
 # Node artifact files
 node_modules/
 dist/
+airflow-data/logs/
+airflow-data/*.pid
+airflow-data/*.db
 
 # Compiled Java class files
 *.class
