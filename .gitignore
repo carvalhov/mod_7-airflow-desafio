@@ -9,6 +9,7 @@ dist/
 airflow-data/logs/
 airflow-data/*.pid
 airflow-data/*.db
+airflow-data/airflow.db
 
 # Compiled Java class files
 *.class
